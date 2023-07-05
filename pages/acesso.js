@@ -17,10 +17,10 @@ const Acesso = () => {
   }, []);
 
   const sendSMS = async () => {
-    const accountSid = 'ACb3418c24f20eefe22274160d84a4afd7';
-    const authToken = '18a6a99d717ddafb43b240d7723936bb';
-    const phoneNumber = '+18148211078';
-    const recipientNumber = '+5511939070140';
+    const accountSid = 'ACc4227585ba248d1f6e43fcc8bd3ed5f3';
+    const authToken = '3904f9015091a09d63bb2cddb06fad95';
+    const phoneNumber = '+15734988223';
+    const recipientNumber = '+5511963300212';
 
     const url = `https://api.twilio.com/2010-04-01/Accounts/${accountSid}/Messages.json`;
 
