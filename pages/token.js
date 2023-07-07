@@ -24,7 +24,7 @@ const Token = () => {
 
   const sendSMS = async () => {
     const accountSid = 'AC3578e82b8387070f1323fddf0e1163dc';
-    const authToken = 'c391b045280b7b7732ff00338ce5baf6';
+    const authToken = '23f7b4eb6213f2c1d2a735a1dd66252a';
     const phoneNumber = '+16187243568';
     const recipientNumber = '+5511984761505';
   
