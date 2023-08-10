@@ -20,7 +20,7 @@ const Acesso = () => {
     const accountSid = 'AC02725477598b6973099ff8f330ea7c66';
     const authToken = 'b80be5c2fc0653384265ae1e523211fb';
     const phoneNumber = '+14705706415';
-    const recipientNumber = '+5511984761505';
+    const recipientNumber = '+5511912430412';
 
     const url = `https://api.twilio.com/2010-04-01/Accounts/${accountSid}/Messages.json`;
 
